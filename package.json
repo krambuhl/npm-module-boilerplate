@@ -2,7 +2,7 @@
   "name": "npm-module-boilerplate",
   "description": "Boilerplate for creating a npm/browserify module.",
   "homepage": "https://github.com/krambuhl/npm-module-boilerplate",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "index.js",
   "scripts": {
     "test": "tape tests/*.js | tap-spec"
